@@ -16,4 +16,3 @@ git clone https://github.com/ANA-THike/tools.git
 ```
 
 For a step-by-step guide on how to use these tools, check out the video tutorial on [YouTube](https://www.youtube.com/watch?v=5ROcuahTdkM&t=167s).
-``` 

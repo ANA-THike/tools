@@ -4,8 +4,8 @@ This repository contains a collection of tools for various automation and script
 
 ## Features
 
-- **villain.sh**: A script for [description of functionality].
-- **script.sh**: A tool for [description of functionality].
+- **villain.sh**: A script for generate and listen reverse_shells
+- **script.sh**: A tool for encode reverse_shells
 
 ## Installation
 

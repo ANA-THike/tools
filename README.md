@@ -4,8 +4,8 @@ This repository contains a collection of tools for various automation and script
 
 ## Features
 
-- **villain.sh**: A script for generate and listen reverse_shells
-- **script.sh**: A tool for encode reverse_shells
+- **villain.sh**: A script for generating and listening to reverse shells.
+- **script.sh**: A tool for encoding reverse shells.
 
 ## Installation
 
@@ -16,3 +16,7 @@ git clone https://github.com/ANA-THike/tools.git
 ```
 
 For a step-by-step guide on how to use these tools, check out the video tutorial on [YouTube](https://www.youtube.com/watch?v=5ROcuahTdkM&t=167s).
+
+## Ethical Hacking Warning
+
+**Warning**: These tools are intended for ethical hacking purposes only. Unauthorized use of these tools on networks, systems, or devices that you do not own or have explicit permission to test is illegal and unethical. Always ensure that you have proper authorization before testing or using these tools in any environment.
